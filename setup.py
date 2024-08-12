@@ -31,7 +31,7 @@ setup(
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
     ],
-    install_requires=read("requirements.txt"),
+    # install_requires=read("requirements.txt"),
     extras_require={"test": read("test-requirements.txt")},
     entry_points={
         "console_scripts": [
