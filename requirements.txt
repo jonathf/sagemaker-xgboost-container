@@ -8,7 +8,7 @@ dask==2022.11.1
 dask-cuda==22.12.0
 gunicorn==19.10.0
 itsdangerous==2.0.1
-matplotlib==3.4.1
+matplotlib
 multi-model-server==1.1.2
 numpy==1.24.1
 pandas==1.2.4
